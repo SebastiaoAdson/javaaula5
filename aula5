@@ -1,0 +1,21 @@
+let idade = 78
+
+//menores de 16 
+if (idade <16){
+    if(idade >= 16 && idade <16)
+    console.log("nao vota")
+}
+//entre 16 e 17
+if (idade >= 16 && idade < 17)
+    {
+    console.log("Nao Vota")
+}
+//entre 18 e 70
+ if (idade >= 18 && idade <=70)
+    {
+        console.log("Voto obrigatorio")
+  }
+//acima de 70
+  if (idade >70)
+    {
+        console.log("Voto opcional")}
